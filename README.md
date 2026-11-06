@@ -99,7 +99,7 @@ Screenshot 7
 
 Screenshot 8
 
-!Additional Wireshark Evidence 6
+![Additional Wireshark Evidence 6](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20093838.png)
 
 Screenshot 9
 
