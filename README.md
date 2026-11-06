@@ -54,7 +54,7 @@ packets recorded by Wireshark.
 
 **Result:** Wireshark successfully captured **309 packets**.
 
-**Screenshot:**
+Screenshot_1
 
 ### Task 2: Filtering TCP SYN Packets
 
@@ -81,29 +81,21 @@ This exercise helped me understand how TCP SYN flags are used during
 connection establishment and how Wireshark display filters can isolate
 specific network activities.
 
-**Screenshot:*
+Screenshot_2
 ## Additional Challenge Evidence
 
 The following links provide additional screenshots documenting the
 exercises and findings from the Wireshark challenge. They are listed in
 the order shared.
 
-1.  [View screenshot
-    1](https://drive.google.com/file/d/1S7Oiqy67cMJC_3imZbeXsgC6mRH_bf3T/view?usp=sharing)
-2.  [View screenshot
-    2](https://drive.google.com/file/d/1aUrK32TnTcHLy7GnFFESAHP3ElKr-WIU/view?usp=sharing)
-3.  [View screenshot
-    3](https://drive.google.com/file/d/1aOdGLiCM2CzgrVTxc9tTFDhTVhhwjli8/view?usp=sharing)
-4.  [View screenshot
-    4](https://drive.google.com/file/d/173rvhwGzP-Nvi0BxrsP0B-UL7pb0LQbf/view?usp=sharing)
-5.  [View screenshot
-    5](https://drive.google.com/file/d/13janFb0Yi_GN49AHNGq_irhLyWvWpaWH/view?usp=sharing)
-6.  [View screenshot
-    6](https://drive.google.com/file/d/1swuYaLHCULiPf964Bkc8X5pH1Av0ByGc/view?usp=sharing)
-7.  [View screenshot
-    7](https://drive.google.com/file/d/1iKj2WBcg6v5PDMoS-kBm8umx2nu-gTc_/view?usp=sharing)
-8.  [View screenshot
-    8](https://drive.google.com/file/d/1VZ9D3jCrO_xd-1avDV-muG7oj6TfHPBG/view?usp=sharing
+1.  Screenshot_3
+2.  Screenshot_4
+3.  Screenshot_5
+4.  Screenshot_6
+5.  Screenshot_7
+6.  Screenshot_8
+7.  Screenshot_9
+8.  Screenshot_10
 
 ## Key Learning Outcomes
 
