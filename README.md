@@ -46,7 +46,7 @@ Screenshot Evidence:
 
 ![Wireshark Packet Capture](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20091125.png?raw=true)
 
-Task 2: Filtering TCP SYN Packets
+# Task 2: Filtering TCP SYN Packets
 
 Objective: Filter the captured traffic to display packets with the TCP SYN flag set.
 
@@ -69,7 +69,7 @@ This exercise helped me understand how TCP SYN flags are used during connection 
 
 Screenshot Evidence:
 
-!TCP SYN Filter
+![TCP SYN Filter](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20091746.png?raw=true)
 
 Additional Challenge Evidence
 
