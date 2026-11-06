@@ -90,7 +90,7 @@ exercises and findings from the Wireshark challenge. They are listed in
 the order shared.
 
 1.  screenshots/Screenshot 2026-11-06 092231.png
-2.  Screenshot_4
+2.  screenshots/Screenshot 2026-11-06 092313.png
 3.  Screenshot_5
 4.  Screenshot_6
 5.  Screenshot_7
