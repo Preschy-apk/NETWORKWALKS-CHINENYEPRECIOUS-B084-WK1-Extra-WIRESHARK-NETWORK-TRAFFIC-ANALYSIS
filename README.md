@@ -20,6 +20,7 @@ Identify TCP connection initiation using SYN flags.
 Analyze communication between source and destination IP addresses.
 Investigate network traffic patterns.
 Develop practical network security monitoring skills.
+
 Tools and Technologies
 Wireshark: Network protocol analyzer used to capture and inspect network packets.
 Windows PC: Host operating system.
@@ -77,7 +78,7 @@ The following screenshots provide additional evidence of the exercises and findi
 
 Screenshot 3
 
-!Additional Wireshark Evidence 1
+![Additional Wireshark Evidence 1](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20092231.png?raw=true)
 
 Screenshot 4
 
