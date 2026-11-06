@@ -1,18 +1,18 @@
-NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS
+# NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS
 
-Project Category: Cybersecurity | Network Analysis | Wireshark | SOC Analysis
-Difficulty: Beginner
-Training Platform: Networkwalks
-Lab: Wireshark Lab 3
-Status: Completed
+# Project Category: Cybersecurity | Network Analysis | Wireshark | SOC Analysis
+# Difficulty: Beginner
+# Training Platform: Networkwalks
+# Lab: Wireshark Lab 3
+# Status: Completed
 
-Project Overview
+# Project Overview
 
 As part of the Networkwalks Wireshark Lab 3 challenge, I completed practical exercises designed to strengthen my understanding of network traffic analysis, TCP communication, packet filtering, and the investigation of potentially suspicious network activities.
 
 This project provided hands-on experience using Wireshark to capture and examine network packets, apply display filters, and interpret basic network communication.
 
-Project Objectives
+# Project Objectives
 Capture network traffic using Wireshark.
 Understand how to inspect captured packets.
 Apply display filters to isolate specific network traffic.
@@ -26,11 +26,12 @@ Windows PC: Host operating system.
 TCP/IP: Network communication protocol suite.
 Wireshark Display Filters: Used to isolate and examine specific packets.
 Practical Exercises and Findings
-Task 1: Capturing Network Traffic
+# Task 1: Capturing Network Traffic
 
-Objective: Capture network traffic and determine the total number of packets recorded by Wireshark.
+# Objective:
+Capture network traffic and determine the total number of packets recorded by Wireshark.
 
-Procedure:
+# Procedure:
 
 Opened Wireshark on the Windows PC.
 Selected the active Wi-Fi network interface.
@@ -38,11 +39,12 @@ Started capturing network traffic.
 Allowed the capture to run.
 Checked the total packet count.
 
-Result: Wireshark successfully captured 309 packets.
+# Result: 
+Wireshark successfully captured 309 packets.
 
 Screenshot Evidence:
 
-!Wireshark Packet Capture
+![Wireshark Packet Capture](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20091125.png?raw=true)
 
 Task 2: Filtering TCP SYN Packets
 
