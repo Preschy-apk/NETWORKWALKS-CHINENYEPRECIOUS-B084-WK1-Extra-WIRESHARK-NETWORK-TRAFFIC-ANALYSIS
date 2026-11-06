@@ -107,7 +107,7 @@ Screenshot 9
 
 Screenshot 10
 
-!Additional Wireshark Evidence 8
+![Additional Wireshark Evidence 8](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20094019.png)
 
 Key Learning Outcomes
 
