@@ -96,7 +96,7 @@ the order shared.
 5. screenshots/Screenshot 2026-11-06 093630.png
 6. screenshots/Screenshot 2026-11-06 093838.png
 7. screenshots/Screenshot 2026-11-06 093923.png
-8.  Screenshot_10
+8. screenshots/Screenshot 2026-11-06 094019.png
 
 ## Key Learning Outcomes
 
