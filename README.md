@@ -22,6 +22,7 @@ Investigate network traffic patterns.
 Develop practical network security monitoring skills.
 
 Tools and Technologies
+
 Wireshark: Network protocol analyzer used to capture and inspect network packets.
 Windows PC: Host operating system.
 TCP/IP: Network communication protocol suite.
@@ -82,7 +83,7 @@ Screenshot 3
 
 Screenshot 4
 
-!Additional Wireshark Evidence 2
+![Additional Wireshark Evidence 2](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20092313.png)
 
 Screenshot 5
 
