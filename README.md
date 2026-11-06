@@ -53,6 +53,7 @@ packets recorded by Wireshark.
 5.  Checked the total packet count.
 
 **Result:** Wireshark successfully captured **309 packets**.
+
 screenshots/Screenshot 2026-11-06 091125.png
 
 ### Task 2: Filtering TCP SYN Packets
@@ -80,7 +81,8 @@ This exercise helped me understand how TCP SYN flags are used during
 connection establishment and how Wireshark display filters can isolate
 specific network activities.
 
-Screenshot_2
+screenshots/Screenshot 2026-11-06 091746.png
+
 ## Additional Challenge Evidence
 
 The following links provide additional screenshots documenting the
