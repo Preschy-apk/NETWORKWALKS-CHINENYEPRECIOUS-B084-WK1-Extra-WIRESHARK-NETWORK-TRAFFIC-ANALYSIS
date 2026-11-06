@@ -1,10 +1,10 @@
 # NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS
 
-# Project Category: Cybersecurity | Network Analysis | Wireshark | SOC Analysis
-# Difficulty: Beginner
-# Training Platform: Networkwalks
-# Lab: Wireshark Lab 3
-# Status: Completed
+Project Category: Cybersecurity | Network Analysis | Wireshark | SOC Analysis
+Difficulty: Beginner
+Training Platform: Networkwalks
+Lab: Wireshark Lab 3
+Status: Completed
 
 # Project Overview
 
@@ -28,10 +28,10 @@ Wireshark Display Filters: Used to isolate and examine specific packets.
 Practical Exercises and Findings
 # Task 1: Capturing Network Traffic
 
-# Objective:
+Objective:
 Capture network traffic and determine the total number of packets recorded by Wireshark.
 
-# Procedure:
+Procedure:
 
 Opened Wireshark on the Windows PC.
 Selected the active Wi-Fi network interface.
@@ -39,7 +39,7 @@ Started capturing network traffic.
 Allowed the capture to run.
 Checked the total packet count.
 
-# Result: 
+Result: 
 Wireshark successfully captured 309 packets.
 
 Screenshot Evidence:
