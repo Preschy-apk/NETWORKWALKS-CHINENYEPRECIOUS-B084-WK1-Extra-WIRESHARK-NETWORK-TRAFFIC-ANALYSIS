@@ -130,4 +130,5 @@ It provided hands-on experience with packet capture, traffic filtering, and netw
 I look forward to building on these skills through additional hands-on cybersecurity labs and SOC analyst projects.
 
 Project Status: Completed
+
 Training Platform: Networkwalks
