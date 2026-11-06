@@ -46,7 +46,7 @@ Wireshark successfully captured 309 packets.
 
 Screenshot Evidence:
 
-![Wireshark Packet Capture](screenshots/Screenshot%202026-11-06%20091125.png?raw=true)
+![Wireshark Packet Capture](screenshots/Screenshot%202026-11-06%20091125.png)
 
 # Task 2: Filtering TCP SYN Packets
 
@@ -71,7 +71,7 @@ This exercise helped me understand how TCP SYN flags are used during connection 
 
 Screenshot Evidence:
 
-![TCP SYN Filter](screenshots/Screenshot%202026-11-06%20091746.png?raw=true)
+![TCP SYN Filter](screenshots/Screenshot%202026-11-06%20091746.png)
 
 Additional Challenge Evidence
 
@@ -79,35 +79,35 @@ The following screenshots provide additional evidence of the exercises and findi
 
 Screenshot 3
 
-![Additional Wireshark Evidence 1](screenshots/Screenshot%202026-11-06%20092231.png?raw=true)
+![Additional Wireshark Evidence 1](screenshots/Screenshot%202026-11-06%20092231.png)
 
 Screenshot 4
 
-![Additional Wireshark Evidence 2](screenshots/Screenshot%202026-11-06%20092313.png?raw=true)
+![Additional Wireshark Evidence 2](screenshots/Screenshot%202026-11-06%20092313.png)
 
 Screenshot 5
 
-![Additional Wireshark Evidence 3](screenshots/Screenshot%202026-11-06%20092451.png?raw=true)
+![Additional Wireshark Evidence 3](screenshots/Screenshot%202026-11-06%20092451.png)
 
 Screenshot 6
 
-![Additional Wireshark Evidence 4](screenshots/Screenshot%202026-11-06%20092941.png?raw=true)
+![Additional Wireshark Evidence 4](screenshots/Screenshot%202026-11-06%20092941.png)
 
 Screenshot 7
 
-![Additional Wireshark Evidence 5](screenshots/Screenshot%202026-11-06%20093630.png?raw=true)
+![Additional Wireshark Evidence 5](screenshots/Screenshot%202026-11-06%20093630.png)
 
 Screenshot 8
 
-![Additional Wireshark Evidence 6](screenshots/Screenshot%202026-11-06%20093838.png?raw=true)
+![Additional Wireshark Evidence 6](screenshots/Screenshot%202026-11-06%20093838.png)
 
 Screenshot 9
 
-![Additional Wireshark Evidence 7](screenshots/Screenshot%202026-11-06%20093923.png?raw=true)
+![Additional Wireshark Evidence 7](screenshots/Screenshot%202026-11-06%20093923.png)
 
 Screenshot 10
 
-![Additional Wireshark Evidence 8](screenshots/Screenshot%202026-11-06%20094019.png?raw=true)
+![Additional Wireshark Evidence 8](screenshots/Screenshot%202026-11-06%20094019.png)
 
 Key Learning Outcomes
 
