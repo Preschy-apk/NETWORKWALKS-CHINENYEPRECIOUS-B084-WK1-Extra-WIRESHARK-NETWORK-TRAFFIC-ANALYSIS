@@ -89,7 +89,7 @@ The following links provide additional screenshots documenting the
 exercises and findings from the Wireshark challenge. They are listed in
 the order shared.
 
-1.  Screenshot_3
+1.  screenshots/Screenshot 2026-11-06 092231.png
 2.  Screenshot_4
 3.  Screenshot_5
 4.  Screenshot_6
