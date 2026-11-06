@@ -46,7 +46,7 @@ Wireshark successfully captured 309 packets.
 
 Screenshot Evidence:
 
-![Wireshark Packet Capture](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20091125.png?raw=true)
+![Wireshark Packet Capture](screenshots/Screenshot%202026-11-06%20091125.png?raw=true)
 
 # Task 2: Filtering TCP SYN Packets
 
@@ -71,7 +71,7 @@ This exercise helped me understand how TCP SYN flags are used during connection 
 
 Screenshot Evidence:
 
-![TCP SYN Filter](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20091746.png?raw=true)
+![TCP SYN Filter](screenshots/Screenshot%202026-11-06%20091746.png?raw=true)
 
 Additional Challenge Evidence
 
@@ -79,35 +79,35 @@ The following screenshots provide additional evidence of the exercises and findi
 
 Screenshot 3
 
-![Additional Wireshark Evidence 1](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20092231.png?raw=true)
+![Additional Wireshark Evidence 1](screenshots/Screenshot%202026-11-06%20092231.png?raw=true)
 
 Screenshot 4
 
-![Additional Wireshark Evidence 2](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20092313.png)
+![Additional Wireshark Evidence 2](screenshots/Screenshot%202026-11-06%20092313.png?raw=true)
 
 Screenshot 5
 
-![Additional Wireshark Evidence 3](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20092451.png)
+![Additional Wireshark Evidence 3](screenshots/Screenshot%202026-11-06%20092451.png?raw=true)
 
 Screenshot 6
 
-![Additional Wireshark Evidence 4](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20092941.png)
+![Additional Wireshark Evidence 4](screenshots/Screenshot%202026-11-06%20092941.png?raw=true)
 
 Screenshot 7
 
-![Additional Wireshark Evidence 5](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20093630.png)
+![Additional Wireshark Evidence 5](screenshots/Screenshot%202026-11-06%20093630.png?raw=true)
 
 Screenshot 8
 
-![Additional Wireshark Evidence 6](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20093838.png)
+![Additional Wireshark Evidence 6](screenshots/Screenshot%202026-11-06%20093838.png?raw=true)
 
 Screenshot 9
 
-![Additional Wireshark Evidence 7](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20093923.png)
+![Additional Wireshark Evidence 7](screenshots/Screenshot%202026-11-06%20093923.png?raw=true)
 
 Screenshot 10
 
-![Additional Wireshark Evidence 8](https://github.com/Preschy-apk/NETWORKWALKS-CHINENYEPRECIOUS-B084-WK1-Extra-WIRESHARK-NETWORK-TRAFFIC-ANALYSIS/blob/main/screenshots/Screenshot%202026-11-06%20094019.png)
+![Additional Wireshark Evidence 8](screenshots/Screenshot%202026-11-06%20094019.png?raw=true)
 
 Key Learning Outcomes
 
