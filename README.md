@@ -53,8 +53,7 @@ packets recorded by Wireshark.
 5.  Checked the total packet count.
 
 **Result:** Wireshark successfully captured **309 packets**.
-
-Screenshot 2026-11-06 091125.png
+screenshots/Screenshot 2026-11-06 091125.png
 
 ### Task 2: Filtering TCP SYN Packets
 
